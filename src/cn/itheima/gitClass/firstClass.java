@@ -11,7 +11,9 @@ public class firstClass {
         System.out.println("hello git project !");
         System.out.println("hello git project !");
         System.out.println("hello git project !");
+        System.out.println("我今天在学习git");
         System.out.println("hello git project !");
+        System.out.println("我今天在学习git");
         System.out.println("hello git project !");
     }
     public  void test(){
